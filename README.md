@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <b>Android</b>
 - 🌱 I’m currently learning  <b>Javascript,</b> <b>nodejs,</b> <b>Microservices,</b> <b>Cloud Platforms</b>
-- 👯 I’m looking to collaborate on <b>Android,</b> <b>Javascript</b>
+- 👯 I’m looking to collaborate on <b>Android,</b>
 <!--
 **RaghuSharman/RaghuSharman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
